@@ -74,11 +74,4 @@ Marketing-AB-Testing/
 - **Power BI** — interactive dashboard for conversion, day-of-week, and hourly trend analysis
 - **Jupyter Notebook** — end-to-end analysis workflow
 
-## How to Reproduce
-
-1. Clone the repository
-2. Install dependencies: `pip install pandas numpy matplotlib jupyter`
-3. Open `Marketing_AB_testing.ipynb` and run all cells
-4. Open `Marketing_AB_testing_Dashboard.pbix` in Power BI Desktop to explore the interactive dashboard
-
 
